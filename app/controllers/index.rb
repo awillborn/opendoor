@@ -2,7 +2,7 @@ get '/' do
   erb :index
 end
 
-post '/listings' do
+get '/listings' do
   listings = Listing.search(params)
   features = []
 
