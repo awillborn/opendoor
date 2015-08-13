@@ -2,3 +2,4 @@ The API endpoint at /listings returns a GeoJSON of listings that were seeded int
 
 A form at the root url (/) allows users to enter params to filter the listings results. Could definitely make this prettier, and more user friendly with dropdowns instead of text fields.
 
+Deployed to Heroku here: http://murmuring-tor-9305.herokuapp.com/
